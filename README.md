@@ -95,17 +95,18 @@ python3 code/train_cnn.py
 
 ```
 
-Author
-Tomi - Biomedical Engineering Master's Student
-Exploring the intersection of deep learning, audio processing, and machine learning
-
-This project demonstrates practical application of CNNs for audio classification and highlights important concepts in deep learning such as overfitting, model architecture design, and the importance of sufficient training data.
-
-
 ---
 
 ### **Step 3: Create requirements.txt**
 ```bash
 cd ~/Desktop/Projects/music-genre-classifier
 pip freeze > requirements.txt
+```
+
+Author
+Tomi - Biomedical Engineering Master's Student
+
+Exploring the intersection of deep learning, audio processing, and machine learning
+
+This project demonstrates practical application of CNNs for audio classification and highlights important concepts in deep learning such as overfitting, model architecture design, and the importance of sufficient training data.
 
