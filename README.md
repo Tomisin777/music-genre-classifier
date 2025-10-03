@@ -95,13 +95,6 @@ python3 code/train_cnn.py
 
 ```
 
----
-
-### **Step 3: Create requirements.txt**
-```bash
-cd ~/Desktop/Projects/music-genre-classifier
-pip freeze > requirements.txt
-```
 
 Author
 Tomi - Biomedical Engineering Master's Student
